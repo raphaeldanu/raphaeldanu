@@ -4,8 +4,8 @@ My name is Raphael, I am a code enthusiast from Indonesia.
 I am currently focusing on web development.
 Have fun looking around.
 
-### My Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raphaeldanu&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 <!--
 **raphaeldanu/raphaeldanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
