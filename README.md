@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Raphael 👋
 
-My name is Raphael, I am a code enthusiast from Indonesia.
+I am a code enthusiast from Indonesia.
 I am currently focusing on web development.
 Have fun looking around.
 
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeldanu&theme=radical&count_private=true&show_icons=true&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldanu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeldanu&theme=radical&count_private=true&show_icons=true&hide_title=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldanu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raphaeldanu&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
