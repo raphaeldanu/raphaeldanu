@@ -95,9 +95,9 @@ More projects and experiments are available in my repositories.
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaeldanu&show_icons=true&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raphaeldanu&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta&short_numbers=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldanu&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=raphaeldanu&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
