@@ -97,8 +97,6 @@ More projects and experiments are available in my repositories.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphaeldanu&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta&short_numbers=true)](https://git.io/streak-stats)
 
-![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=raphaeldanu&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 ### 🤝 Let's Connect
