@@ -8,6 +8,8 @@ My primary focus is backend engineering, particularly with **PHP, Laravel, Node.
 
 I also have experience working on frontend development, admin dashboards, and various business applications, allowing me to contribute across the full development lifecycle.
 
+I'm also experienced in AI-assisted software development, leveraging AI coding tools and AI agents to accelerate implementation, debug complex issues, refactor code, explore technical solutions, and improve development productivity while maintaining a focus on code quality and reliability.
+
 - 💻 Backend-focused Full Stack Developer
 - 🚀 Experienced in Laravel, PHP, Node.js, and TypeScript
 - 🔌 Experienced in RESTful APIs and third-party integrations
